@@ -169,17 +169,17 @@ language_container_t language_korean = {
 
 // Translation provided by Croden1999
 language_container_t language_chinese_t = {
-	L"存儲設備",
+	L"存儲裝置",
 	L"啟用YAMT",
 	L"使用YAMT挂載驅動",
-	L"默認",
-	L"SD2Vita卡套",
-	L"記憶卡",
+	L"預設",
+	L"SD2Vita記憶卡轉接器",
+	L"PS Vita專用記憶卡",
 	L"內部存儲",
 	L"開發者選項",
 	L"閑置",
 	L"重置YAMT配置",
-	L"格式化GC-SD存儲設備為TexFAT",
+	L"格式化SD2Vita記憶卡為TexFAT",
 	L"擴展讀寫權限掛載sa0和pd0",
 };
 
@@ -189,13 +189,13 @@ language_container_t language_chinese_s = {
 	L"启用YAMT",
 	L"使用YAMT挂载驱动",
 	L"默认",
-	L"SD2Vita卡套",
-	L"原装内存卡",
+	L"SD2Vita存储卡适配器",
+	L"PS Vita专用存储卡",
 	L"内部存储",
 	L"开发者选项",
 	L"闲置",
 	L"重置YAMT配置",
-	L"格式化GC-SD存储设备为TexFAT格式",
+	L"格式化SD2Vita存储卡为TexFAT格式",
 	L"扩展读写权限挂载sa0和pd0",
 };
 
